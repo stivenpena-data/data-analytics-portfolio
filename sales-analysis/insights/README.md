@@ -1,15 +1,22 @@
 # Business Insights
 
-This folder contains the key business insights derived from the sales analysis.
+This analysis identified several important patterns in the retail sales dataset.
 
 ## Key Findings
 
-- The West region generates the highest revenue.
-- Technology is the best-performing product category.
-- Sales increase during the final quarter of the year.
+1. The West region generates the highest sales revenue.
 
-## Business Recommendations
+2. Technology is the top-performing product category.
+
+3. Sales show a clear increase toward the end of the year, suggesting strong seasonal demand.
+
+4. Certain products contribute significantly more revenue than others, highlighting key items driving business performance.
+
+## Recommendations
+
+Based on the analysis, the following strategies could improve business performance:
 
 - Increase marketing investment in high-performing regions.
-- Focus inventory planning on top-selling categories.
-- Prepare operations for increased demand during Q4.
+- Ensure inventory availability for top-selling product categories.
+- Prepare operational capacity for increased sales during peak months.
+- Focus sales strategies on high-revenue products.
