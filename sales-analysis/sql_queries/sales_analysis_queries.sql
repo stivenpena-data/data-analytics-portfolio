@@ -28,3 +28,12 @@ SELECT
 FROM superstore_sales
 GROUP BY MONTH(Date)
 ORDER BY month;
+
+-- Top 10 Products by Sales
+SELECT
+    [Product Name],
+    SUM(Sales) AS total_sales
+FROM superstore_sales
+GROUP BY [Product Name]
+ORDER BY total_sales DESC
+LIMIT 10;
