@@ -73,3 +73,11 @@ The insights can support better decision-making in areas such as:
 - product inventory planning
 - marketing investments
 - seasonal sales preparation
+
+## Skills Demonstrated
+
+- SQL data analysis
+- Data aggregation and grouping
+- Data visualization with Power BI
+- Business insight generation
+- Dashboard design
