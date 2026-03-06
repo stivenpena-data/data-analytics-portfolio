@@ -1,19 +1,36 @@
 # Dataset
 
-This project uses the Superstore Sales dataset.
+This project uses the **Superstore Sales dataset**, which contains transactional retail sales data.
 
-The dataset contains transactional retail sales data including:
+The dataset includes detailed information about orders, customers, products, and financial performance.
 
+## Key Fields
+
+The dataset contains the following important variables:
+
+- Order ID
 - Order Date
 - Ship Date
 - Region
 - Category
 - Sub-Category
 - Product Name
+- Customer Segment
 - Sales
-- Profit
 - Quantity
+- Discount
+- Profit
 
-The dataset is included in this folder to allow replication of the analysis.
+## Description
 
-This dataset serves as the foundation for the SQL analysis and Power BI dashboard developed in this project.
+Each row represents a product purchased within a specific order.
+
+The dataset allows analysis of:
+
+- regional sales performance
+- product category performance
+- profitability
+- customer segments
+- sales trends over time
+
+The dataset is included in this repository to allow replication of the analysis.
