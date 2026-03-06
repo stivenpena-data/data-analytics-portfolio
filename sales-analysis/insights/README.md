@@ -1,22 +1,85 @@
 # Business Insights
 
-This analysis identified several important patterns in the retail sales dataset.
+This section summarizes the key findings obtained from the SQL analysis and the Power BI dashboard.
 
-## Key Findings
+The objective is to translate data analysis into actionable business insights that can support better strategic decisions.
 
-1. The West region generates the highest sales revenue.
+---
 
-2. Technology is the top-performing product category.
+# Key Findings
 
-3. Sales show a clear increase toward the end of the year, suggesting strong seasonal demand.
+## Regional Performance
 
-4. Certain products contribute significantly more revenue than others, highlighting key items driving business performance.
+The analysis shows that the **West region generates the highest total sales**.
 
-## Recommendations
+This indicates that the West market represents the strongest geographic segment and could benefit from continued investment in marketing and distribution.
 
-Based on the analysis, the following strategies could improve business performance:
+In contrast, the **South region generates the lowest revenue**, suggesting potential opportunities for growth or the need for targeted marketing strategies.
 
-- Increase marketing investment in high-performing regions.
-- Ensure inventory availability for top-selling product categories.
-- Prepare operational capacity for increased sales during peak months.
-- Focus sales strategies on high-revenue products.
+---
+
+## Product Category Performance
+
+Among all product categories, **Technology products generate the highest sales revenue**.
+
+This suggests that technology products play a key role in the company's overall revenue generation and may deserve increased focus in inventory planning and promotional campaigns.
+
+Furniture and Office Supplies generate lower total sales compared to Technology.
+
+---
+
+## Sales Trends Over Time
+
+The monthly sales trend shows that **sales increase toward the end of the year**.
+
+This pattern suggests a seasonal purchasing behavior, potentially influenced by:
+
+- holiday shopping
+- end-of-year promotions
+- increased consumer spending during the fourth quarter
+
+Understanding this pattern allows businesses to better prepare for peak demand periods.
+
+---
+
+## Product Contribution to Revenue
+
+The analysis also reveals that **a relatively small number of products generate a large portion of total sales**.
+
+This indicates the presence of top-performing products that significantly drive revenue.
+
+Focusing on these products can help improve:
+
+- marketing effectiveness
+- product placement
+- inventory optimization
+
+---
+
+# Strategic Implications
+
+Based on the analysis, several strategic recommendations emerge:
+
+- Increase investment in high-performing regions such as the West.
+- Prioritize high-performing product categories like Technology.
+- Prepare for seasonal demand increases toward the end of the year.
+- Focus marketing efforts on top-selling products.
+
+These actions could help improve revenue growth and operational efficiency.
+
+---
+
+# Connection to the Dashboard
+
+These insights are supported by the Power BI dashboard included in the project.
+
+The dashboard visualizes:
+
+- total revenue
+- total profit
+- total orders
+- sales by region
+- sales by category
+- monthly sales trends
+
+The visualizations allow stakeholders to quickly explore the patterns identified in this analysis.
