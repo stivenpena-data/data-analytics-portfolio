@@ -1,19 +1,55 @@
 # SQL Queries
 
-This folder contains SQL scripts used to analyze the sales dataset.
+This folder contains the SQL queries used to analyze the Superstore Sales dataset.
 
-## Business Questions
+The queries were designed to answer key business questions related to sales performance, product performance, and regional trends.
 
-The SQL queries answer questions such as:
+These SQL scripts form the analytical foundation for the insights and the Power BI dashboard included in this project.
 
-- What is the total revenue?
+---
+
+# Analysis Objectives
+
+The SQL queries in this project aim to answer the following business questions:
+
+- What is the total revenue generated?
 - Which regions generate the highest sales?
-- Which categories perform best?
-- What are the monthly sales trends?
+- Which product categories perform best?
+- How do sales change over time?
+- Which products generate the most revenue?
 
-## Skills Demonstrated
+---
 
-- SQL aggregation
-- GROUP BY analysis
-- ORDER BY sorting
-- Time-based analysis
+# Queries Included
+
+The file `sales_analysis_queries.sql` contains the following analyses:
+
+### Total Revenue
+Calculates the total sales revenue generated in the dataset.
+
+### Sales by Region
+Aggregates sales by region to identify the strongest performing markets.
+
+### Sales by Category
+Analyzes total sales by product category.
+
+### Monthly Sales Trend
+Examines how sales change over time by month.
+
+### Top Products by Sales
+Identifies the top-performing products based on revenue.
+
+---
+
+# Example Query
+
+Example of one of the SQL queries used in this project:
+
+```sql
+-- Sales by Region
+SELECT
+    Region,
+    SUM(Sales) AS total_sales
+FROM superstore_sales
+GROUP BY Region
+ORDER BY total_sales DESC;
