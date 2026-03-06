@@ -38,6 +38,17 @@ sql_queries → SQL scripts used for analysis
 powerbi_dashboard → Power BI dashboard and visuals  
 insights → key business findings
 
+## Business Impact
+
+This analysis helps businesses identify high-performing regions and product categories.
+
+The insights can support better decision-making in areas such as:
+
+- regional sales strategy
+- product inventory planning
+- marketing investments
+- seasonal sales preparation
+
 ## Dashboard Preview
 
 ![Sales Dashboard](powerbi_dashboard/sales_dashboard.png)
