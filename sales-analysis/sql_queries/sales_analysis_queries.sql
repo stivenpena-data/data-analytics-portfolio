@@ -23,8 +23,8 @@ ORDER BY total_sales DESC;
 
 -- Monthly Sales Trend
 SELECT
-    MONTH(Order_Date) AS month,
+    MONTH(Date) AS month,
     SUM(Sales) AS monthly_sales
 FROM superstore_sales
-GROUP BY MONTH(Order_Date)
+GROUP BY MONTH(Date)
 ORDER BY month;
