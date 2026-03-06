@@ -158,6 +158,12 @@ sales-analysis
 
 ---
 
+## Key Business Takeaways
+
+- The West region represents the most profitable sales market.
+- Technology products drive the largest share of revenue.
+- Sales increase significantly during the last quarter of the year.
+
 # Business Impact
 
 This analysis helps businesses identify high-performing regions and product categories.
