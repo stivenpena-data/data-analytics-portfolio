@@ -1,0 +1,19 @@
+initiative_id,initiative_name,department,category,investment_date,investment_usd,annual_benefit_usd,payback_months,roi_pct,npv_3yr,status,benefit_type
+I001,ERP Migration,IT,Technology,2024-01-01,341500,280000,14.6,81.9,357800,Realized,Cost Reduction
+I002,AP Automation,Finance,Process,2024-02-01,109300,145000,9.0,132.7,248600,Realized,Cost Reduction
+I003,Customer Portal,Marketing,Digital,2024-01-01,138200,210000,7.9,151.9,334800,Realized,Revenue Growth
+I004,E-commerce Upgrade,Product,Digital,2024-01-01,405800,520000,9.4,128.2,638200,Realized,Revenue Growth
+I005,HR Automation,HR,Process,2024-01-01,58900,72000,9.8,122.2,118400,Realized,Cost Reduction
+I006,Financial Reporting,Finance,Process,2024-02-01,74200,88000,10.1,118.6,141200,Realized,Efficiency
+I007,Cybersecurity Audit,IT,Security,2024-01-01,102400,95000,12.9,92.8,123600,Realized,Risk Mitigation
+I008,Mobile App v2.0,Product,Digital,2024-03-01,387500,480000,9.7,123.9,555200,In Progress,Revenue Growth
+I009,CRM Integration,Sales,Technology,2024-02-01,298600,350000,10.2,117.2,448600,In Progress,Revenue Growth
+I010,Data Warehouse,Data & Analytics,Technology,2024-02-01,198400,230000,10.3,115.9,296000,In Progress,Efficiency
+I011,Supply Chain Dashboard,Operations,Technology,2024-02-01,156300,175000,10.7,111.9,221800,In Progress,Cost Reduction
+I012,Predictive Maintenance,Operations,Technology,2024-04-01,128700,190000,8.1,147.6,263400,In Progress,Cost Reduction
+I013,Cloud Migration,IT,Technology,2024-03-01,312100,280000,13.4,89.7,337600,In Progress,Cost Reduction
+I014,Fraud Detection,Finance,Security,2024-05-01,128500,420000,3.7,326.8,843200,In Progress,Risk Mitigation
+I015,BI Hub,Data & Analytics,Technology,2024-06-01,101400,160000,7.6,157.8,265800,In Progress,Efficiency
+I016,Churn Prediction,Data & Analytics,Technology,2024-04-01,72600,195000,4.5,268.6,380400,In Progress,Revenue Growth
+I017,Marketing Attribution,Data & Analytics,Technology,2024-03-01,54800,85000,7.7,155.1,139600,In Progress,Revenue Growth
+I018,Compliance System,Finance,Regulatory,2024-04-01,98400,110000,10.7,111.8,163200,In Progress,Risk Mitigation
